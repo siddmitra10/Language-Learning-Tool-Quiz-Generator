@@ -1,7 +1,7 @@
 '''
 ===============================================================================
 Program Description 
-    gives the user an option to quit at point in the quiz
+    gives the user an option to quit at any point in the quiz
 Author:         Siddharth Mitra, mitra30
 ===============================================================================
 '''
