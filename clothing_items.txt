@@ -1,0 +1,17 @@
+ski jacket:anorak
+jacket:blouson
+cardigan:gilet
+raincoat:impermeable
+jeans:jean
+bathing suit:maillot
+coat:manteau
+pants:pantalon
+sweater:pull
+pajamas:pyjama
+shorts:shorts
+T-shirt:tee-shirt
+boots:bottes
+socks:chaussettes
+shoes:chaussures
+sandals:sandales
+sneakers:tennis

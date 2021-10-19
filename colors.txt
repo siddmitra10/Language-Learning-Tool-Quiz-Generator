@@ -1,0 +1,11 @@
+yellow:jaune
+orange:orange
+red:rouge
+pink:rose
+purple:violet
+blue:bleu
+black:noir
+brown:brun
+white:blanc
+green:vert
+gray:gris
