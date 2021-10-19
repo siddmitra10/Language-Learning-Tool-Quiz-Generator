@@ -1,7 +1,7 @@
 '''
 ===============================================================================
 Program Description 
-    Quizzes the user on one specific English word.
+    Quizzes the user on one specific English word
 Author:         Siddharth Mitra, mitra30
 ===============================================================================
 '''
